@@ -36,7 +36,7 @@ body {
   justify-content: center;
 }
 .single-product {
-
+  background-color: rgb(187, 243, 243);
   padding: 10px;
   transition: 0.6s;
 }
@@ -44,7 +44,6 @@ body {
   box-shadow: 4px 4px 7px gray;
   border-radius: 10px;
   border: 1px solid cyan;
-  background-color: antiquewhite;
 }
 .product-image {
   width: 150px;
